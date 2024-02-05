@@ -1,0 +1,14 @@
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\projetosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\projetosCsharp.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\projetosCsharp.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\projetosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\bin\Debug\net7.0\projetosCsharp.exe
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\bin\Debug\net7.0\projetosCsharp.deps.json
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\bin\Debug\net7.0\projetosCsharp.runtimeconfig.json
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\bin\Debug\net7.0\projetosCsharp.dll
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\bin\Debug\net7.0\projetosCsharp.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\projetosCsharp.dll
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\refint\projetosCsharp.dll
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\projetosCsharp.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\projetosCsharp.genruntimeconfig.cache
+C:\Users\amand\OneDrive\Área de Trabalho\Programação\Cursos\Faculdade\Algoritmo e Programação II\projetosCsharp\obj\Debug\net7.0\ref\projetosCsharp.dll
